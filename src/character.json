@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Kylo Ren",
+    "image": "./assets/images/kylo-ren_fa163069-3dbaebc4-cc90-416a-8e13-24204ceb753a.jpg",
+    "clicked":false
+   
+  },
+  {
+    "id": 2,
+    "name": "Obi-Kenobi",
+    "image": "./assets/images/obi-kenobi.jpg",
+    "clicked":false
+  },
+  {
+    "id": 3,
+    "name": "3PO",
+    "image": "./assets/images/rs-218599-11-C-3PO.jpg",
+    "clicked":false
+  },
+  {
+    "id": 4,
+    "name": "Chew",
+    "image": "./assets/images/rs-218604-14-Chew.jpg",
+    "clicked":false
+  },
+  {
+    "id": 5,
+    "name": "Tarkin",
+    "image": "./assets/images/rs-218608-15-Tarkin.jpg",
+    "clicked":false
+  },
+  {
+    "id": 6,
+    "name": "Emperor",
+    "image": "./assets/images/rs-218611-17-Emp.jpg",
+    "clicked":false
+  },
+  {
+    "id": 7,
+    "name": "Master Windu",
+    "image": "./assets/images/rs-218612-16-Windu-2.jpg",
+    "clicked":false
+  },
+  {
+    "id": 8,
+    "name": "Qui-Gon Jinn",
+    "image": "./assets/images/rs-218643-20-jinn-0a7fb237-3cff-45bc-b27e-e26accc8f921.jpg",
+    "clicked":false
+  },
+  {
+    "id": 9,
+    "name": "General Grievous",
+    "image": "../assets/images/rs-218646-21-general-grievous-225c2125-ffc7-45ba-8dbb-2338853df6ca.jpg",
+    "clicked":false
+  },
+  {
+    "id": 10,
+    "name": "Luke Skywalker",
+    "image": "../assets/images/rs-218592-6-luke-cd70ba0f-828e-4231-9c8d-f8d6ab92a07b.jpg",
+    "clicked":false
+  }
+  
+]
