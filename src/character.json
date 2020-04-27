@@ -51,13 +51,13 @@
   {
     "id": 9,
     "name": "General Grievous",
-    "image": "../assets/images/rs-218646-21-general-grievous-225c2125-ffc7-45ba-8dbb-2338853df6ca.jpg",
+    "image": "./assets/images/rs-218646-21-general-grievous-225c2125-ffc7-45ba-8dbb-2338853df6ca.jpg",
     "clicked":false
   },
   {
     "id": 10,
     "name": "Luke Skywalker",
-    "image": "../assets/images/rs-218592-6-luke-cd70ba0f-828e-4231-9c8d-f8d6ab92a07b.jpg",
+    "image": "./assets/images/rs-218592-6-luke-cd70ba0f-828e-4231-9c8d-f8d6ab92a07b.jpg",
     "clicked":false
   }
   
