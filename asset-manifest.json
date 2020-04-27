@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clickygame/static/css/main.515b1c73.chunk.css",
+    "main.js": "/clickygame/static/js/main.b9cfa751.chunk.js",
+    "main.js.map": "/clickygame/static/js/main.b9cfa751.chunk.js.map",
+    "runtime-main.js": "/clickygame/static/js/runtime-main.0e36e694.js",
+    "runtime-main.js.map": "/clickygame/static/js/runtime-main.0e36e694.js.map",
+    "static/js/2.bf395a0d.chunk.js": "/clickygame/static/js/2.bf395a0d.chunk.js",
+    "static/js/2.bf395a0d.chunk.js.map": "/clickygame/static/js/2.bf395a0d.chunk.js.map",
+    "index.html": "/clickygame/index.html",
+    "precache-manifest.14e9885c84cb4897b382fa92cd8fb37e.js": "/clickygame/precache-manifest.14e9885c84cb4897b382fa92cd8fb37e.js",
+    "service-worker.js": "/clickygame/service-worker.js",
+    "static/css/main.515b1c73.chunk.css.map": "/clickygame/static/css/main.515b1c73.chunk.css.map",
+    "static/js/2.bf395a0d.chunk.js.LICENSE.txt": "/clickygame/static/js/2.bf395a0d.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/clickygame/static/media/star-wars-lead.3e490136.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e36e694.js",
+    "static/js/2.bf395a0d.chunk.js",
+    "static/css/main.515b1c73.chunk.css",
+    "static/js/main.b9cfa751.chunk.js"
+  ]
+}
